@@ -1,0 +1,37 @@
+
+body{
+   background-color: rgb(207, 207, 117); 
+   /* background-image: ; */
+   /* font-display: ; */
+   background-image: url('img/clock_img1.jpeg')
+}
+
+.jumbotron{
+    background-color: rgb(207, 117, 137); 
+    align-items: center;
+    /* max-resolution: top 20px; */
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 100%;
+    /* border=  10 px solid black ; */
+    border: 10px solid #555;
+    border-radius: 100px;
+
+
+    /* padding-top: 50%; */
+
+}
+
+h1{
+    color: solid black ; 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+
+
+
+    /* font: size 2; */
+}
+
